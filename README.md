@@ -92,12 +92,6 @@ Após subir, a aplicação estará disponível em:
 ./mvnw test
 ```
 
-36 testes unitários com JUnit 5 e Mockito:
-- 21 testes de Service (regras de negócio)
-- 14 testes de Controller (endpoints REST)
-- 1 teste de contexto Spring
-- Execução: ~2 segundos
-- Cobertura: 100% das regras de negócio
 
 Cobertura JaCoCo:
 ```bash
